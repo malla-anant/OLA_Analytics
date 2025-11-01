@@ -1,6 +1,6 @@
 # 🚕Ola-Analysis-Dashboard
 
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)]([https://app.powerbi.com/view?r=eyJrIjoiNDRhODNhZTktMGEyYS00NzZiLWE2OGEtMGY3Mjc0OThiMjc4IiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9](https://app.powerbi.com/groups/me/reports/11ded044-82e0-4d57-9f14-dc35ff883af3/c8a18467e9daa3880701?experience=power-bi))
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/groups/me/reports/11ded044-82e0-4d57-9f14-dc35ff883af3/c8a18467e9daa3880701?experience=power-bi)
 
 ## Table of Contents
 1. [Table of Contents](#table-of-contents)
